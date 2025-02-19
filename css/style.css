@@ -1533,6 +1533,8 @@ a.slide_banner:hover::before {
 .heroslider .swiper-pagination .swiper-pagination-bullet-active {
      background: #fff;
 }
+
+
 .heroslider .swiper-pagination::before {
      content: "";
      width: 22px;
@@ -1545,6 +1547,8 @@ a.slide_banner:hover::before {
      -webkit-transform: rotate(45deg);
      transform: rotate(45deg);
 }
+
+
 .heroslider .swiper-pagination::after {
      content: "";
      width: 22px;
@@ -1557,10 +1561,14 @@ a.slide_banner:hover::before {
      -webkit-transform: rotate(45deg);
      transform: rotate(45deg);
 }
+
+
 .heroslider .swiper-pagination.swiper-pagination-bullets-dynamic {
      overflow: visible;
      width: 110px !important;
 }
+
+
 .heroslider .swiper-pagination .swiper-pagination-bullet {
      opacity: 1;
 }
