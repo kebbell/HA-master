@@ -1562,21 +1562,21 @@ a.slide_banner:hover::before {
      transform: rotate(45deg);
 }
 
-
 .heroslider .swiper-pagination.swiper-pagination-bullets-dynamic {
      overflow: visible;
      width: 110px !important;
 }
 
-
 .heroslider .swiper-pagination .swiper-pagination-bullet {
      opacity: 1;
 }
+
 input[type="checkbox"].styled:checked+label:after,
 input[type="radio"].styled:checked+label:after {
      font-family: 'FontAwesome';
      content: "\f00c";
 }
+
 input[type="checkbox"] .styled:checked+label::before,
 input[type="radio"] .styled:checked+label::before {
      color: #fff;
