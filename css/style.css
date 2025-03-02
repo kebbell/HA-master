@@ -1797,7 +1797,16 @@ input[type="radio"] .styled:checked+label::after {
 .contact-page .form-control {
      margin-bottom: 20px;
 }
+.contact-page .send-btn {
+     margin-top: 0px;
+}
+.contact-page .main-form a {
+     margin-top: 0px;
+}    
 
-
-
+.about-bg .read-more a {
+     background: #fff;
+     color: #000;
+     border: #fff solid 2px;
+}
 
