@@ -1810,3 +1810,9 @@ input[type="radio"] .styled:checked+label::after {
      border: #fff solid 2px;
 }
 
+.about-bg .read-more a:hover {
+     background: #000;
+     color: #fff;
+     border: #000 solid 2px;
+}   
+
