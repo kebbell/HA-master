@@ -1816,3 +1816,10 @@ input[type="radio"] .styled:checked+label::after {
      border: #000 solid 2px;
 }   
 
+.about-bg .abouttitle p {
+     color: #fff;
+     font-size: 17px;
+     line-height: 32px;
+     padding: 0px 0px 20px 0px;
+     text-align: center;
+}
